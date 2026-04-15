@@ -1,4 +1,4 @@
-<!-- GitAds-Verify: REPLACE_WITH_GITADS_CODE -->
+<!-- GitAds-Verify: EB35LK4F5GZV5FU37AW9CCHVH9I87M4R -->
 
 # AWS Hidden Costs
 
